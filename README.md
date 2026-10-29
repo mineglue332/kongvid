@@ -59,6 +59,7 @@ pip install yt-dlp        # atau unduh binary dari github.com/yt-dlp/yt-dlp
 
 # 3. Install & jalankan
 cd kongvid
+cd kongvid
 cp .env.example .env      # isi kredensial Google & Midtrans bila perlu
 pnpm install
 pnpm dev                  # web :3000 + api :4000 bersamaan
